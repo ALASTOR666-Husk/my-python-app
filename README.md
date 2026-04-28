@@ -178,7 +178,7 @@ docker run --rm my-python-app:test
 
 Вы увидите вывод: `Hello from my Python app!`
 
-![Hello from my Python app!]()
+![Hello from my Python app!](2026-04-28_22-34-13.png)
 
 Опционально вы можете зайти в созданный вами контейнер для ознакомления
 ```shell
